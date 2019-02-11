@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+63	windows	Windows	E:\personal Projects\cashierProgram\Cashier_CustomersHyS\Installer\RCashier_windows_1_0_0_1.exe
