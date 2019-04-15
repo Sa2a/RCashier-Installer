@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="">
-  <entry targetMediaFileId="63" updatableVersionMin="" updatableVersionMax="" fileName="RCashier_windows_1_0_0_1.exe" newVersion="1.0.0.1" newMediaFileId="63" fileSize="44768256" md5Sum="6745d02b2a5723dd9c9f200e8289f719" bundledJre="windows-x86-1.8.0_192" archive="false" singleBundle="false">
+  <entry targetMediaFileId="63" updatableVersionMin="" updatableVersionMax="" fileName="RCashier_windows_1_0_0_1.exe" newVersion="1.0.0.1" newMediaFileId="63" fileSize="79395328" md5Sum="5a3e0510d1ee4dfeac8b52c2363c72ed" bundledJre="windows-x86-1.8.0_192" archive="false" singleBundle="false">
     <comment language="en" />
   </entry>
 </updateDescriptor>
